@@ -16,7 +16,7 @@ public class PrimerPrograma {
      */
     public static void main(String[] args) {
         
-        System.out.println("Hello word from Tamoor");
+        System.out.println("Hola Mundo");
     }
     
 }
